@@ -1,0 +1,6 @@
+namespace PostmanDemo.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
